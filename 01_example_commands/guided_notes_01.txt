@@ -17,5 +17,8 @@ SHOW TABLES;
 # describe our table to us
 DESC students;
 
+# describe our table to us with more explicit formatting
+DESC students \G;
+
 # delete our table
 DROP TABLE students;
