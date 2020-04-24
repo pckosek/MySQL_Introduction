@@ -4,8 +4,8 @@ The goal of this repository is to provide a set of resources that can get you up
 
 ### Recommended First Steps:
 
-- **Set up a MySQL Database** - instructions on how to do this on Director are [HERE](https://www.youtube.com/watch?v=PxzMkgcQnEI)
-- **Familiarize yourself with SQL** - CodeAcademy has a great series for this under LearnSql [HERE](https://www.codecademy.com/learn/learn-sql#)
+- **Set up a MySQL Database** - instructions on how to do this on Director are  [HERE](https://www.youtube.com/watch?v=PxzMkgcQnEI)
+- **Familiarize yourself with SQL** - CodeAcademy has a great series for this under the title [Learn Sql](https://www.codecademy.com/learn/learn-sql#)
 - **Know where the docs live** - MySQL is well documented. [The docs](https://dev.mysql.com/doc/refman/8.0/en/)
 - **Be Aware of a Good Helper** - I like [mysqltutorial.org](https://www.mysqltutorial.org/getting-started-with-mysql/). Note that this page looks very similar to sqlservertutorial.net - __but sqlserver and mysql are not the same thing__.
 
