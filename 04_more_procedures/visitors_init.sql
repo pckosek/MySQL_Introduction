@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS visitors;
+
+CREATE TABLE VISITORS(id INT, nickname VARCHAR(100), visits INT, PRIMARY KEY(id))
