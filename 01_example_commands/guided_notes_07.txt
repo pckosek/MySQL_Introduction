@@ -7,7 +7,7 @@
 # ---------------------
 
 # create a table as before
-CREATE TABLE students(id INT, s_name VARCHAR(100), PRIMARY KEY(id))
+CREATE TABLE students(id INT, s_name VARCHAR(100), PRIMARY KEY(id));
 
 # add several rows. We're going to do stuff with them
 INSERT INTO students(id, s_name) VALUE (1, 'larry');
