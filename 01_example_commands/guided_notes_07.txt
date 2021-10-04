@@ -20,7 +20,7 @@ INSERT INTO students(id, s_name) VALUE (103, 'chuck');
 SELECT * FROM students;
 
 # delete a student by id, verify that mike is gone
-DELETE FROM students where id=100
+DELETE FROM students where id=100;
 SELECT * FROM students;
 
 # You do not have to delete by the primary key.
