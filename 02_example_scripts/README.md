@@ -4,13 +4,13 @@ This will allow you to 'prewrite' sql commands, and then run as a batch - all at
 
 Here's the process:
 * place the .sql file in a folder on your server
-* navigate to the sql command prompt and type the command:
+* open the sql command prompt (USE THE *ALTERNATE SHELL*) and type the command:
   ```
-  SOURCE foo.sql
+  SOURCE /site/sql_scripts_folder/foo.sql
   ```
-* if your sql script is in a different folder, you may need to run the command:
+* your sql script is in a folder different from above. I can't tell you where you put it, but you will need to run a command that looks like:
   ```
-  SOURCE /web/the/full/file/path/foo.sql
+  SOURCE /site/web/the/full/file/path/foo.sql
   ```
 
  once you have run the initialization script, at the sql prompt you can run a command like
